@@ -63,6 +63,3 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap',     '~> 4.1.1'
 gem 'material-sass', '~> 4.1.1'
-
-gem "react_on_rails", "11.0.0"
-gem "webpacker", "~> 3"
